@@ -1,0 +1,38 @@
+body {
+  font-family: Apple Chancery, cursive;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+
+}
+
+
+#testimonial{
+  background: #FFFAFA;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 50px;
+}
+
+#header, #info-two {
+  margin-top: 20px;
+  background: #4682B4;
+}
+
+footer {
+  background: url(../img/imagen3.jpg);
+}
+
+.card{
+    background: transparent !important;
+}
+
+.header {
+  margin-top: 10px;
+}
+.color{
+  background: pink;
+}
